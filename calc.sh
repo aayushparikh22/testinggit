@@ -8,11 +8,8 @@ y = a-b
 
 #Division
 
-<<<<<<< HEAD
 #percentage
 
 #this is a test change
 
-=======
 #multiplication
->>>>>>> 9fea63d (demonstrate merge)
