@@ -8,6 +8,10 @@ y = a-b
 
 #Division
 
+<<<<<<< HEAD
 
 #this is a test change
 
+=======
+#multiplication
+>>>>>>> MergeExample
